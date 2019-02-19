@@ -1,5 +1,5 @@
 {
-    "name": "synergitech/laravel-weasyprint",
+    "name": "ictinusinc/laravel-weasyprint",
     "description": "This library integrates WeasyPrint with Laravel.",
     "keywords": [
         "Laravel",
