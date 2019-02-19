@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": ">=5.4.0",
-        "symfony/process": ">=3.4.22"
+        "symfony/process": "3.4.22"
     },
     "autoload": {
         "psr-4": {
